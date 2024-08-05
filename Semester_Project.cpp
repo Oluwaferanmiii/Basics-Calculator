@@ -1,10 +1,3 @@
-// Akinwale Feranmi Philip
-// Programming
-// Semester Project
-// Due Date : June 10
-// Time Spent : 3 weeks
-// I acknowlegde that this is my own work
-
 //This program helps elementary students develop their maths skills in addition and subtraction.
 //The Program allows students practice addition and subtraction and stores their scores.
 
